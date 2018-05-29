@@ -8,7 +8,6 @@ Last Name: Khaikin
 
 First Name: Sergey
 
-ID: 014269039
 
 Section:<section name>
 
